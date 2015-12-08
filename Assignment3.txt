@@ -1,0 +1,1 @@
+String, Float and Double values cannot be store in datatype int.
